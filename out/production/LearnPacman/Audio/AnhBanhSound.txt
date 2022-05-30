@@ -1,0 +1,5 @@
+resources/Audio/talang.wav
+resources/Audio/thamlam.wav
+resources/Audio/ngudot.wav
+resources/Audio/concainit.wav
+resources/Audio/khongtruotphatlao.wav

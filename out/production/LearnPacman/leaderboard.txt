@@ -1,0 +1,39 @@
+Thanh: 1
+Thanh: 12
+Thanh: 13
+Thanh: 14
+Thanh: 15
+Thanh: 16
+Thanh: 17
+Thanh: 18
+Thanh: 19
+Thanh: 10
+Thanh: 121
+trung thanh: 220
+trung thanh: 430
+Long: 270
+Em thanh: 280
+emthanh: 500
+trung thanh: 220
+trungthanh: 240
+iouhiu: 110
+gg: 390
+thanh: 330
+thanh: 270
+ll: 340
+DEMO: 210
+ff: 0
+ddd: 0
+thanh: 0
+: 100
+: 0
+: 0
+cuong: 100
+em thanh: 820
+thanh: 290
+thanh: 130
+em thanh: 50
+gg: 200
+huy: 970
+: 720
+em thanh: 1870

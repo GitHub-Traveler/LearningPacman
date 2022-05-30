@@ -1,0 +1,5 @@
+resources/Audio/FleeSound.wav
+resources/Audio/DeathSound.wav
+resources/Audio/EatSound.wav
+resources/Audio/PlaySound.wav
+resources/Audio/EndSound.wav

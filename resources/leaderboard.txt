@@ -1,0 +1,12 @@
+Huy: 347
+Thanh: 201
+Kate: 435
+Binh: 723
+Iron man: 500
+Thanos: 427
+Doctor Strang: 234
+Ali Bubu: 868
+JaWeee: 642
+Sonic: 999
+huy: 870
+help: 1170
