@@ -8,5 +8,5 @@ Doctor Strang: 234
 Ali Bubu: 868
 JaWeee: 642
 Sonic: 999
-huy: 6870
+huy: 870
 help: 1170
